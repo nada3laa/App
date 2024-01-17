@@ -1,0 +1,132 @@
+/* start global  */
+* {
+    margin: 0;
+    padding: 0;
+    
+}
+body{
+    background-color: #f8f9fa;
+    height: 2000px;
+    /* width: 2000px; */
+}
+
+/* End global  */
+
+/* start nav section */
+.navbar{
+    font-family: cursive;
+}
+
+.nav-btn-edit{
+    padding: 6px 22px;
+    border: none;
+    background-color: #183153;
+    color: #fff;
+    margin-left: 17px;
+}
+
+/* end nav section */
+
+/* START HEADER SECTION */
+
+.header-h3{
+    color: #172ab5;
+    font-size: 48px;
+    font-weight: 500;
+    font-family: system-ui;
+    margin-bottom: 21px;
+}
+.header-p{
+    font-size: 21px;
+    font-family: system-ui;
+    color: #7b7b7c;
+}
+.header-icon{
+    width: 34%;
+}
+
+
+/* END HEADER SECTION */
+
+/* START ARTICALE SECTION */
+.article{
+    background: linear-gradient(to right, rgb(76 46 236),rgb(132 32 229));
+    height: 300px;
+
+}
+.h2{
+    font-family: cursive;
+}
+/* END ARTICALE SECTION */
+
+/* START ICON SECTION */
+
+h3{
+    color: #000;
+   
+}
+.fa-2xl{
+    color: #294a67;
+    margin-bottom: 20PX;
+}
+
+.icon{
+    margin-top: 100px;
+}
+/* END ICON SECTION */
+
+
+/* START WEB DESIGN SECTION */
+.web-design{
+    color: #000;
+    font-size: 45px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.photo{
+    margin-left: 50px;
+}
+/* END WEB DESIGN SECTION */
+
+/* START DOWNLOAD SECTION */
+.content{
+    background-image: url(../images/stop-waiting-start-doing-flat-lay-work-area-notepad-pen-cell-phone-cup-coffee-stop-waiting-start-doing-197832703.webp);
+    background-size: cover;
+    height: 400px;
+    text-align: center;
+    margin-top: 40px;
+   
+}
+
+h2{
+    color: #fff;
+    margin-top: 80px;
+}
+
+/* END DOWNLOAD SECTION */
+
+/* START  App  section */
+#download{
+
+    background: linear-gradient(to right,#2937f0, #9f1ae2);
+    height: 270px;
+    
+}
+
+
+/* END APP SECTION */
+
+
+/* SCROLL BUTTON */
+#btn{
+    width: 20px;
+    height: 20px;
+    border: none;
+    background: #fa0;
+    cursor: pointer;
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+    display: none;
+}
